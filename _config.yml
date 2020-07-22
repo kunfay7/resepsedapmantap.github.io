@@ -1,0 +1,8 @@
+title: Resepsedapmantap.GitHub.io
+description: Kumpulan resep sedap mantap yang menggugah selera.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
